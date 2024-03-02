@@ -5,7 +5,7 @@ A simple utility library to format currency and convert numbers to words in Indo
 ### Installation
 
 ```bash
-npm install to-rupiah
+npm install convert-money
 ```
 
 ### Usage
